@@ -43,13 +43,6 @@ React와 Java Spring을 주력으로, **창의적인 아이디어를 실현하�
 
 ---
 
-## 📊 **GitHub 통계**  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
 ## 🌟 **연락처 & 활동**  
 - ✉️ 이메일: heejinkk@pukyong.ac.kr
 - 🐾 깃헙: [GitHub Profile](https://github.com/heejinkk)   
